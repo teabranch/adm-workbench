@@ -1,4 +1,4 @@
 {
   "provider": "openai",
-  "modelId": "gpt-4o", 
+  "modelId": "gpt-4o"
 }
