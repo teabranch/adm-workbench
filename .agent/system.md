@@ -7,4 +7,6 @@ Read the folders, relevant for you are:
 ```
 
 In each folder you will see an `example` folder.  
-Read it, then write in `src` folder parallel to example.
+Read it, then write in `src` folder parallel to example.  
+With each request, work on only single workbench, and only its contents.  
+To save files, use `bash -c "echo -e`
