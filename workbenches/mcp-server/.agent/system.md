@@ -3,4 +3,6 @@ Check the folder `./example`, there is file `fast-mcp-example-server.py` that sh
 Result should be in `./output` parallel to `./example`  
 
 You must write the code in files directly under `output` - that's how the process succeeds  
-I expect `./output/mcp_server.py`
+I expect `./output/mcp_server.py`  
+
+Always validate your current location with `pwd`
