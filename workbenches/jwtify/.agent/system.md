@@ -3,4 +3,4 @@ Check the folder `./example`, there is file `get-string-to-jwtify.py` that shows
 Result should be in `./output` parallel to `./example`  
 
 You must write the code in files directly under `output` - that's how the process succeeds  
-I expect `./output/mcp_server.py`
+I expect `./output/jwtify.py`
