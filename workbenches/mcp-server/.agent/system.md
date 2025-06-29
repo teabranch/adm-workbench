@@ -6,3 +6,6 @@ You must write the code in files directly under `output` - that's how the proces
 I expect `./output/mcp_server.py`  
 
 Always validate your current location with `pwd`
+  
+With each request, work on only single workbench, and only its contents.  
+To save files, use `bash -c "echo -e`
