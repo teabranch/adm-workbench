@@ -10,4 +10,5 @@ In each folder you will see:
 - `.agent/system.md` file, when working on a workbench, reach it as well to get ontext before you continue.
 - an `example` folder.  Read it, then write in `src` folder parallel to example.
 
-Only code written in `output` will be sent over - you must start with creating that `output` folder
+Only code written in `output` will be sent over - you must start with creating that `output` folder  
+Always validate your current location with `pwd`
