@@ -12,3 +12,6 @@ In each folder you will see:
 
 Only code written in `output` will be sent over - you must start with creating that `output` folder  
 Always validate your current location with `pwd`
+  
+With each request, work on only single workbench, and only its contents.  
+To save files, use `bash -c "echo -e`
